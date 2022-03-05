@@ -1,0 +1,108 @@
+name: lovequote
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.0.0
+  get: ^4.6.1
+  shared_preferences: ^2.0.11
+  sqflite: ^2.0.1
+  flutter_local_notifications: ^9.2.0
+  flutter_native_timezone: ^2.0.0
+  intl: ^0.17.0
+  screenshot: ^1.2.3
+  share: ^2.0.4
+  image_gallery_saver: ^1.7.1
+  flutter_colorpicker: ^1.0.3
+  path_provider: ^2.0.8
+  flutter_gradient_colors: ^2.1.1
+  url_launcher: ^6.0.17
+  mailto: ^2.0.0
+  device_info_plus: ^3.2.1
+  package_info_plus: ^1.3.0
+  flutter_tts: ^3.3.3
+  store_redirect: ^2.0.0
+  firebase_core: ^1.11.0
+  firebase_database: ^9.0.5
+  cached_network_image: ^3.2.0
+  flutter_spinkit: ^5.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+      - assets/images/
+
+  fonts:
+      - family: roboto_regular
+        fonts:
+          - asset: assets/fonts/roboto_regular.ttf
+      - family: sen_extrabold
+        fonts:
+          - asset: assets/fonts/sen_extrabold.otf
+      - family: sofia_regular
+        fonts:
+          - asset: assets/fonts/sofia_regular.otf
+      - family: alice_regular
+        fonts:
+          - asset: assets/fonts/alice_regular.ttf
+      - family: allerdisplay
+        fonts:
+          - asset: assets/fonts/allerdisplay.ttf
+      - family: hagincaps
+        fonts:
+          - asset: assets/fonts/hagincaps.ttf
+      - family: oswald_bold
+        fonts:
+          - asset: assets/fonts/oswald_bold.ttf
+      - family: robato_bold
+        fonts:
+          - asset: assets/fonts/robato_bold.ttf
+      - family: robato_code
+        fonts:
+          - asset: assets/fonts/robato_code.ttf
+      - family: sansitone
+        fonts:
+          - asset: assets/fonts/sansitone.ttf
+      - family: spyagency
+        fonts:
+          - asset: assets/fonts/spyagency.ttf
+      - family: timesbd
+        fonts:
+          - asset: assets/fonts/timesbd.ttf
+      - family: tondu_beta
+        fonts:
+          - asset: assets/fonts/tondu_beta.ttf
+      - family: ubuntu_bold
+        fonts:
+          - asset: assets/fonts/ubuntu_bold.ttf
+      - family: verdana
+        fonts:
+          - asset: assets/fonts/verdana.ttf

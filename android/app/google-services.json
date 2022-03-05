@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831978001406",
+    "project_id": "quoteapp-62fd3",
+    "storage_bucket": "quoteapp-62fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831978001406:android:75c27d12c07e39d60c66af",
+        "android_client_info": {
+          "package_name": "com.lovequote.mt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831978001406-mm1reuspvogs887fh4vcggo6v32qi9lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB0ArAeKDMIS8arjooBWhqNRBC3mkcMfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831978001406-mm1reuspvogs887fh4vcggo6v32qi9lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

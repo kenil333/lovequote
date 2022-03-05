@@ -1,0 +1,17 @@
+const List<String> fontstylelist = [
+  "roboto_regular",
+  "sen_extrabold",
+  "sofia_regular",
+  "alice_regular",
+  "allerdisplay",
+  "hagincaps",
+  "oswald_bold",
+  "robato_bold",
+  "robato_code",
+  "sansitone",
+  "spyagency",
+  "timesbd",
+  "tondu_beta",
+  "ubuntu_bold",
+  "verdana",
+];

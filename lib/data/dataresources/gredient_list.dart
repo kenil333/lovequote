@@ -1,0 +1,31 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_gradient_colors/flutter_gradient_colors.dart';
+
+List<List<Color>> gredientlist = [
+  MoreGradientColors.instagram,
+  MoreGradientColors.orangePinkTeal,
+  MoreGradientColors.azureLane,
+  MoreGradientColors.darkSkyBlue,
+  GradientColors.plumBath,
+  GradientColors.blue,
+  GradientColors.coolBlues,
+  GradientColors.deepBlue,
+  GradientColors.pink,
+  GradientColors.orange,
+  GradientColors.indigo,
+  GradientColors.skyGlider,
+  GradientColors.sharpBlues,
+  GradientColors.phoenixStart,
+  GradientColors.summerGames,
+  GradientColors.aquaSplash,
+  GradientColors.premiumDark,
+  GradientColors.eternalConstance,
+  GradientColors.midnightBloom,
+  GradientColors.morpheusDen,
+  GradientColors.ripeMalinka,
+  GradientColors.plumPlate,
+  GradientColors.trueSunset,
+  GradientColors.mixedHopes,
+  GradientColors.redSalvation,
+  GradientColors.nightParty,
+];
